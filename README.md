@@ -35,7 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineomollo&show_icons=true" alt="jacquelineomollo" /></p>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> feb970064f9853ea0a86c461e74f71858726e4cf
