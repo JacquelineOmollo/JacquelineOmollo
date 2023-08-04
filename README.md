@@ -23,31 +23,66 @@
 Here's a simplified version of the provided code:
 
 
-<div style="text-align: left;">
-  <h3 style="text-align: left;">Languages and Tools:</h3>
-  <p style="text-align: left;">
-    <a href="https://aws.amazon.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.cypress.io" target="_blank">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
-    </a>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-     <img src="![image](https://github.com/JacquelineOmollo/JacquelineOmollo/assets/42282797/a08be6af-7391-4e99-89fb-e8d596d99293)
-"
-          
-  </p>
-</div>
+<H2>My Thought Process on Doing a PCI DSS Assessment as an Internal Security Accessor</H2>
 
+# 🛡️ Guide to Performing a PCI DSS Assessment 🚀
+
+Hey there, amazing folks! I'm thrilled to share a vibrant guide on how we can rock a PCI DSS (Payment Card Industry Data Security Standard) assessment. Let's ensure our payment card data is in the safest hands! 🌟
+
+## Step 1: Getting Familiar with PCI DSS Requirements 📚
+
+Let's kick things off by getting cozy with the magical world of PCI DSS requirements. These are the golden rules designed to shield our payment card data. They cover areas like network security, data encryption, and access controls. 🌐
+
+## Step 2: Figuring Out What's In Scope 🔍
+
+Time to put on our detective hats! We'll pinpoint the systems, networks, and processes that dance with payment card data. This laser focus will keep us on the right track. 🔦
+
+## Step 3: Taking Stock of Data 🗂️
+
+Gather 'round, data wizards! We'll conjure up a list of all the payment card data we handle. Cardholder data (CHD) and sensitive authentication data (SAD) are our enchanting ingredients. 📊
+
+## Step 4: Checking Compliance ✔️
+
+It's audit o'clock! We'll dive into each PCI DSS requirement and give them a thumbs-up or a high-five. Tech inspections, document readings, and friendly chats with fellow wizards might be in store. 🕵️‍♂️
+
+## Step 5: Finding Weaknesses 🕳️
+
+Time for some digital spelunking! We're on the hunt for hidden vulnerabilities in our systems and networks. Penetration tests will help us see if any sneaky goblins can break in. ⛏️
+
+## Step 6: Making Things Secure 🔒
+
+Wave your magic wand! If we spot any cracks, we'll seal 'em up. Setting up strong boundaries, casting encryption spells, and controlling access are our secret potions. 🪄
+
+## Step 7: Keeping Records 📝
+
+Let's keep scrolls of wisdom! Detailed notes will chronicle our epic journey. This parchment will show everyone we mean business when it comes to security. 📜
+
+## Step 8: The Questionnaire or Report 📋
+
+Choose your adventure! Depending on our card data prowess, we'll either complete a "Self-Assessment Questionnaire" (SAQ) or summon a Qualified Security Assessor (QSA) to weave a "Report on Compliance" (ROC). 📜
+
+## Step 9: Fixing Stuff 🛠️
+
+Abracadabra! If anything's amiss, we'll wield our tools and make things right. Swift fixes and rechecks are our spells for safeguarding. 🧙
+
+## Step 10: Sharing the News 📣
+
+Spread the word like phoenix feathers! We'll tell the card companies and our banking pals that we're in tune with the rules. A special parchment (Attestation of Compliance or AOC) might be the key. 💌
+
+## Step 11: Keeping Watch 👁️
+
+Stay vigilant, guardians! Safety is an ongoing quest. Regular system scans will repel any lurking dragons and keep our castle secure. 🏰
+
+## Step 12: Teaching Everyone 🎓
+
+Empower the tribe! We'll enlighten our team about the ways of PCI DSS, the art of staying safe, and their vital roles in this grand adventure. 🌠
+
+Remember, this guide is your friendly compass. For the full map, consult the wise scrolls of the PCI Security Standards Council and perhaps summon an expert guide to ensure our journey is beyond legendary.
+
+Guardians of the data realm, let's keep the treasure safe! 💎🔐
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineomollo&layout=compact" alt="jacquelineomollo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineomollo&show_icons=true" alt="jacquelineomollo" /></p>
+
 
