@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jacqueline Omollo</h1>
-<h3 align="center">A passionate Software Engineer looking for new career oportunities</h3>
+<h3 align="center">A passionate GRC Analyst looking for new career oportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacquelineomollo" alt="jacquelineomollo" /> </p>
 
-- 🔭 I’m currently working on: **Full-Stack Ecommerce App**
+- 🔭 I’m currently working on: **Studying for ISACA CISA Exam and making videos showcasing my accessing skills with PCI DSS and NIST frameworks**
 
-- 🌱 I’m currently learning: **AWS and DEVOPS**
+- 🌱 I’m currently learning: **Splunk using Linux on a Virtual Machine**
 
-- 👯 I’m looking to collaborate: **More Often**
+- 👯 I’m looking to collaborate: **With anyone th**
 
 - 🤝 I’m looking for help with: **Getting my first engineering job.**
 
-- 👨‍💻 All of my projects are available at: [JacquelineOmollo.com](JacquelineOmollo.com)
+- 👨‍💻 All of my old coding projects and new videos on GRC are available at: [JacquelineOmollo.com](JacquelineOmollo.com)
 
 - 😄 Pronouns: [She/Her](She/Her)
 
-- 💬 Ask me about: **Why I decided to become a software engineer**
+- 💬 Ask me about: **Why I decided to switch from a software engineer career to Cybersecurity**
 
-- 📫 How to reach me: **JacquelineOmollo@gmail.com**
+- 📫 How to reach me: **JacquelineOmollo@gmail.com or Linkedin**
 
-- ⚡ Fun fact: **Currently building dream home with the help of family.**
+- ⚡ Fun fact: **Nearly finished building my dream home with the help of family.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
