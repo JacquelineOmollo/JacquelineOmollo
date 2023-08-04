@@ -23,11 +23,8 @@
 Here's a simplified version of the provided code:
 
 
-<H2>My Thought Process on Doing a PCI DSS Assessment as an Internal Security Accessor</H2>
 
-# 🛡️ Guide to Performing a PCI DSS Assessment 🚀
-
-Hey there, amazing folks! I'm thrilled to share a vibrant guide on how we can rock a PCI DSS (Payment Card Industry Data Security Standard) assessment. Let's ensure our payment card data is in the safest hands! 🌟
+# 🛡️<H2>My Thought Process on Doing a PCI DSS Assessment as an Internal Security Accessor</H2> 🚀
 
 ## Step 1: Getting Familiar with PCI DSS Requirements 📚
 
