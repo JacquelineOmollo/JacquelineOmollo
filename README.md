@@ -22,7 +22,6 @@
 - ⚡ Fun fact: **Nearly finished building my dream home with the help of my family.**
 Here's a simplified version of the provided code:
 
-html
 <div style="text-align: left;">
   <h3 style="text-align: left; background-color: white;">Connect with me:</h3>
   <a href="https://twitter.com/jackieomollo" target="blank">
@@ -37,11 +36,21 @@ html
   <h3 style="text-align: left;">Languages and Tools:</h3>
   <p style="text-align: left;">
     <a href="https://aws.amazon.com" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
-    <!-- Add other icons here -->
+    <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.cypress.io" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
+    </a>
+    <!-- Add more icons here as needed -->
   </p>
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineomollo&layout=compact" alt="jacquelineomollo" /></p>
