@@ -24,7 +24,7 @@ Here's a simplified version of the provided code:
 
 
 
-# 🛡️<H2>My Thought Process on Doing a PCI DSS Assessment as an Internal Security Accessor</H2> 🚀
+## My Thought Process on Doing a PCI DSS Assessment as an Internal Security Accessor
 
 ## Step 1: Getting Familiar with PCI DSS Requirements 📚
 
@@ -79,7 +79,7 @@ Remember, this guide is your friendly compass. For the full map, consult the wis
 Guardians of the data realm, let's keep the treasure safe! 💎🔐
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineomollo&layout=compact" alt="jacquelineomollo" /></p>
+
 
 
 
