@@ -22,15 +22,6 @@
 - ⚡ Fun fact: **Nearly finished building my dream home with the help of my family.**
 Here's a simplified version of the provided code:
 
-<div style="text-align: left;">
-  <h3 style="text-align: left; background-color: white;">Connect with me:</h3>
-  <a href="https://twitter.com/jackieomollo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jackieomollo" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/jacquelineomollo" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="jacquelineomollo" height="30" width="40" />
-  </a>
-</div>
 
 <div style="text-align: left;">
   <h3 style="text-align: left;">Languages and Tools:</h3>
@@ -47,7 +38,10 @@ Here's a simplified version of the provided code:
     <a href="https://www.cypress.io" target="_blank">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
     </a>
-    <!-- Add more icons here as needed -->
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+     <img src="![image](https://github.com/JacquelineOmollo/JacquelineOmollo/assets/42282797/a08be6af-7391-4e99-89fb-e8d596d99293)
+"
+          
   </p>
 </div>
 
