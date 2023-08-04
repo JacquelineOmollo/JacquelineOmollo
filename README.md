@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **Nearly finished building my dream home with the help of my family.**
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left", background-color:"white">Connect with me:</h3>
 <a href="https://twitter.com/jackieomollo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jackieomollo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jacquelineomollo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jacquelineomollo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programmingmom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programmingmom" height="30" width="40" /></a>
