@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **JacquelineOmollo@gmail.com or Linkedin**
 
-- ⚡ Fun fact: **Nearly finished building my dream home with the help of family.**
+- ⚡ Fun fact: **Nearly finished building my dream home with the help of my family.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
