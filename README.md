@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning: **Splunk using Linux on a Virtual Machine**
 
-- 👯 I’m looking to collaborate: **With anyone th**
+- 👯 I’m looking to collaborate: **With anyone that like talk about anything tech.**
 
-- 🤝 I’m looking for help with: **Getting my first engineering job.**
+- 🤝 I’m looking for help with: **Getting advice on how to grow in the GRC space from their personal experience.**
 
-- 👨‍💻 All of my old coding projects and new videos on GRC are available at: [JacquelineOmollo.com](JacquelineOmollo.com)
+- 👨‍💻 All of my old coding projects and new videos on GRC will be available at: [JacquelineOmollo.com](JacquelineOmollo.com)
 
 - 😄 Pronouns: [She/Her](She/Her)
 
@@ -28,7 +28,7 @@ Here's a simplified version of the provided code:
 
 ## Step 1: Getting Familiar with PCI DSS Requirements 📚
 
-Let's kick things off by getting cozy with the magical world of PCI DSS requirements. These are the golden rules designed to shield our payment card data. They cover areas like network security, data encryption, and access controls. 🌐
+Let's start by getting cozy with the magical world of PCI DSS requirements. These are the golden rules designed to shield our payment card data. They cover areas like network security, data encryption, and access controls. 🌐
 
 ## Step 2: Figuring Out What's In Scope 🔍
 
@@ -36,7 +36,7 @@ Time to put on our detective hats! We'll pinpoint the systems, networks, and pro
 
 ## Step 3: Taking Stock of Data 🗂️
 
-Gather 'round, data wizards! We'll conjure up a list of all the payment card data we handle. Cardholder data (CHD) and sensitive authentication data (SAD) are our enchanting ingredients. 📊
+Gather 'round, data wizards! We'll conjure a list of all the payment card data we handle. Cardholder data (CHD) and sensitive authentication data (SAD) are our enchanting ingredients. 📊
 
 ## Step 4: Checking Compliance ✔️
 
